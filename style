@@ -1,0 +1,22 @@
+@import url('components/containers.css');
+@import url('components/navigation.css');
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+p{
+    color: black;
+    letter-spacing: 2px;
+    line-height: 2em;
+}
+h2 {
+    letter-spacing: 2px;
+    margin: 20px;
+    line-height: 2em;
+
+}
+h3 {
+    letter-spacing: 2px;
+    line-height: 2em;
+
+}
